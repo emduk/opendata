@@ -1,7 +1,7 @@
 # EMD UK Sessions Open Data
 
 ## Open Data Endpoint
--https://www.classfinder.org.uk/api/public/classes - a feed of session data from EMD UK Class Finder
+- https://www.classfinder.org.uk/api/public/classes - a feed of session data from EMD UK Class Finder
 - https://portal.emduk.org/openactive/classes/public -  a feed of session data from EMD UK Class Search
 
 ## Standards
